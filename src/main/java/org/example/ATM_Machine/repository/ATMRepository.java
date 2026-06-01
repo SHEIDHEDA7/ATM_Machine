@@ -17,8 +17,4 @@ public class ATMRepository {
     public Optional<ATM> getById(String id){
         return Optional.ofNullable(atms.get(id));
     }
-
-    public void updateATMStatusById(String id, Status newStatus) {
-        atms.get(id).setStatus(newStatus);
-    }
 }

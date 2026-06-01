@@ -1,0 +1,9 @@
+1: Create the entities
+2: Create Cash Dispenser Chain
+3: Create ATM Repo
+4: Create ATM Service partially by just adding the functions
+5: Create a State Factory -> Factory Pattern
+6: After ATMState Interface create all the states -> State Pattern
+7: Now complete all the Functions using states in ATM Service
+
+https://excalidraw.com/#json=MMciOWEYWU_y39EsxcNoQ,9BHUm8hffQAWVjjmS9R3PQ
